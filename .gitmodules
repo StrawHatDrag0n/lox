@@ -1,0 +1,6 @@
+[submodule "pylox"]
+	path = pylox
+	url = https://github.com/StrawHatDrag0n/pylox.git
+[submodule "jlox"]
+	path = jlox
+	url = https://github.com/StrawHatDrag0n/jlox.git
